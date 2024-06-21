@@ -18,3 +18,4 @@ Inheritance, Polymorphism, Encapsulation , Abstraction, Virtual functions , Temp
 •	Void studentMenu()
 •	Void instructorMenu()
 •	Int main()
+### CHECK THE REPORT FOR MORE DETAILS.
